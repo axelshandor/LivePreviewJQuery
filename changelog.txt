@@ -1,0 +1,3 @@
+Primo commit ( funzionamento base )
+Secondo commit ( cambiamento dello style del documento )
+Terzo commit ( miglioria della funzione resine )
